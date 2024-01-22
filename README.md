@@ -26,3 +26,5 @@ lid
 ```
 sudo mv ./setkeycodes.service /etc/systemd/system/setkeycodes.service ; sudo systemctl enable setkeycodes.service
 ```
+
+todo: fix top bar
