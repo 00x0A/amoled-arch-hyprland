@@ -14,6 +14,7 @@ install firefox user.js
 put in profile location: ~/.mozilla/firefox/xxxx.default-release/user.js
 ```
 laptop tweaks:
+
 power
 ```
 sudo pacman -S thermald ; yay -S envycontrol auto-cpufreq
