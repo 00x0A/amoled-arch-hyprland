@@ -14,9 +14,14 @@ install firefox user.js
 put in profile location: ~/.mozilla/firefox/xxxx.default-release/user.js
 ```
 laptop tweaks:
+power
 ```
 sudo pacman -S thermald ; yay -S envycontrol auto-cpufreq
 ```
 ```
 sudo auto-cpufreq --install ; envycontrol -s integrated
+```
+lid
+```
+sudo mv ./setkeycodes.service /etc/systemd/system/setkeycodes.service ; sudo systemctl enable setkeycodes.service
 ```
