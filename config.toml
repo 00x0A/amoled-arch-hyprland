@@ -1,0 +1,7 @@
+[default_session]
+command = "Hyprland"
+user = "user"
+autologin = true
+
+[terminal]
+vt = 1
