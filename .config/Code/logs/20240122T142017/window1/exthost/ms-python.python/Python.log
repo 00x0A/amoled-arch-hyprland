@@ -1,0 +1,316 @@
+2024-01-22 14:27:02.090 [info] Experiment 'pythonaa' is active
+2024-01-22 14:27:02.090 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-01-22 14:27:02.090 [info] Experiment 'pythonREPLSmartSend' is active
+2024-01-22 14:27:02.090 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-01-22 14:27:02.090 [info] Experiment 'pythonTestAdapter' is active
+2024-01-22 14:27:02.109 [info] Default formatter is set to null for workspace /home/user/Documents/Python
+2024-01-22 14:27:02.122 [info] Test server listening.
+2024-01-22 14:27:02.133 [info] > conda info --json
+2024-01-22 14:27:02.141 [info] Found: /bin/python --> /bin/python3.11
+2024-01-22 14:27:02.141 [info] Found: /bin/python3 --> /bin/python3.11
+2024-01-22 14:27:02.141 [info] Found: /bin/python3.11 --> /bin/python3.11
+2024-01-22 14:27:02.385 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-22 14:27:02.385 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-22 14:27:02.385 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-22 14:27:02.385 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-22 14:27:02.385 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-22 14:27:02.385 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-22 14:27:02.385 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-22 14:27:02.387 [info] Found: /sbin/python --> /sbin/python3.11
+2024-01-22 14:27:02.387 [info] Found: /sbin/python3 --> /sbin/python3.11
+2024-01-22 14:27:02.390 [info] Found: /sbin/python3.11 --> /sbin/python3.11
+2024-01-22 14:27:02.393 [info] Found: /usr/bin/python --> /usr/bin/python3.11
+2024-01-22 14:27:02.393 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2024-01-22 14:27:02.393 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2024-01-22 14:27:02.401 [info] Found: /usr/sbin/python --> /usr/sbin/python3.11
+2024-01-22 14:27:02.401 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.11
+2024-01-22 14:27:02.401 [info] Found: /usr/sbin/python3.11 --> /usr/sbin/python3.11
+2024-01-22 14:27:02.411 [info] > /bin/python -I ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-22 14:27:02.419 [info] > /sbin/python -I ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-22 14:27:02.443 [info] > /usr/bin/python -I ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-22 14:27:02.449 [info] > /usr/sbin/python -I ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-22 14:27:02.478 [info] Send text to terminal: echo /usr/bin/fish
+2024-01-22 14:27:02.478 [info] Python interpreter path: /bin/python
+2024-01-22 14:27:02.504 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-22 14:27:03.508 [info] Starting Pylance language server.
+2024-01-22 14:27:05.479 [info] Shell integration is not working for fish
+2024-01-22 14:27:05.481 [warning] Shell integration is not active, environment activated maybe overriden by the shell.
+2024-01-22 14:27:24.097 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:27:42.887 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:27:48.541 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:27:50.643 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:28:21.236 [info] Discover tests for workspace name: undefined - uri: /home/user/.config/Code/User/settings.json
+2024-01-22 14:28:26.205 [info] CreateEnv Trigger - Skipping for /home/user/Documents/Python/hello world.py
+2024-01-22 14:28:26.299 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:28:28.993 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:28:29.480 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:28:30.073 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:28:51.628 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:28:57.063 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:29:03.957 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:29:06.660 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:29:09.346 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:29:16.540 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:29:22.069 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:29:24.141 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:29:33.399 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:29:34.968 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:29:40.957 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:29:42.690 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:29:43.742 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:29:54.955 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:29:56.868 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:31:29.480 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:31:33.905 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:31:38.928 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:31:44.118 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:31:44.701 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:31:48.484 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:31:48.536 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:31:49.551 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:31:49.955 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:31:50.365 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:31:50.616 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:31:50.851 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:32:58.720 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:33:02.633 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:33:06.945 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:33:09.703 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:33:10.764 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:33:16.400 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:33:19.058 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:33:20.601 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:33:22.309 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:33:24.224 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:33:29.879 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:33:31.739 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:33:35.127 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:33:37.404 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:33:42.954 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:33:46.002 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:33:51.073 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:33:53.416 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:33:55.265 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:33:58.580 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:34:05.783 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:34:08.745 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:34:11.074 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:34:12.637 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:34:16.604 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:34:24.110 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:34:26.622 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:34:28.376 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:34:33.796 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:34:38.512 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:34:41.984 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:34:51.218 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:35:08.888 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:35:10.721 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:35:15.167 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:35:17.391 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:35:19.381 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:35:21.272 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:35:25.438 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:35:31.618 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:35:33.320 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:35:34.667 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:35:38.653 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:35:39.920 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:35:40.910 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:35:54.188 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:35:56.221 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:35:56.893 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:36:20.090 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:36:20.399 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:36:37.332 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:36:40.309 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:36:40.868 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:37:20.121 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:37:25.453 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:37:26.213 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:37:27.391 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:37:27.742 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:37:27.926 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:37:28.129 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:37:32.133 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:37:32.385 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:37:32.836 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:37:33.037 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:37:33.227 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:37:33.403 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:37:47.887 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:37:51.910 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:37:52.409 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:37:53.193 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:37:53.395 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:37:53.601 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:44:36.713 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:44:37.061 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:44:47.187 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:44:47.434 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:44:58.340 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:44:59.392 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:45:01.704 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:45:02.853 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:45:15.271 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:45:15.875 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:46:01.519 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:46:04.900 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:46:07.654 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:46:10.725 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:47:24.509 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:47:26.521 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:47:26.772 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:47:31.606 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:47:32.435 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:47:46.099 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:47:46.191 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:47:56.540 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:47:56.642 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:48:10.989 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:48:11.115 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:48:38.170 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:48:38.273 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:48:49.464 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:48:49.644 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:49:00.965 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:49:01.063 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:49:09.079 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:49:09.326 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:50:06.984 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:50:14.776 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:50:22.341 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:50:24.045 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:50:24.068 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 14:50:31.268 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:51:28.791 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:56:36.725 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:56:43.498 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:56:56.400 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:56:57.896 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:57:00.476 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:58:19.359 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:58:29.016 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:58:31.106 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:58:32.946 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:58:35.269 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:58:44.827 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:58:47.575 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:58:51.859 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:59:18.116 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:59:22.421 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 14:59:24.761 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:00:19.266 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:00:21.529 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:00:34.946 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:00:42.026 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:00:49.573 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:00:52.578 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:00:54.327 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:00:58.845 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:01:02.818 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:01:04.297 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:01:10.576 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:01:40.629 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:01:44.405 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:01:47.937 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:01:58.836 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:02:00.487 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:02:16.411 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:02:19.149 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:02:22.435 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:02:22.681 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:02:37.818 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:02:52.076 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:03:07.838 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:03:10.736 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:03:17.108 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:03:26.622 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:03:31.671 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:03:34.026 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:03:44.103 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:03:49.336 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:03:50.957 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:03:53.238 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:03:55.955 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:11:02.287 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:11:02.820 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:11:12.816 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:11:32.461 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:11:41.116 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:11:42.573 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:11:46.348 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:11:52.905 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:12:03.520 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:12:21.139 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:13:30.102 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:13:30.706 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:14:55.961 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:14:56.207 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:15:22.616 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:15:22.866 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:15:40.238 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:15:45.201 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:15:51.166 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:16:06.174 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:16:08.094 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:16:10.291 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:16:12.603 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:16:15.136 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:16:17.045 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:16:29.151 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:16:36.462 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:16:38.183 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:16:47.156 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:16:51.761 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:16:53.750 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:16:54.460 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:16:55.151 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:16:55.646 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:16:56.064 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:16:56.456 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:16:56.928 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:17:03.517 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:17:08.585 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:17:19.297 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:17:19.330 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:17:38.564 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:17:38.814 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:18:05.388 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:18:29.140 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:18:30.916 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:18:32.020 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:18:36.790 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:18:38.143 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:18:44.992 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:18:51.406 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:18:53.393 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:18:57.658 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:18:59.426 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:19:28.886 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:19:29.111 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:19:29.134 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:19:31.918 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:19:32.164 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:19:32.801 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:19:32.997 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:19:33.169 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:19:51.746 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:19:51.978 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:20:59.601 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:20:59.847 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:21:00.237 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:21:00.427 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:21:20.299 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:21:20.408 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:21:20.971 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:21:21.165 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:21:27.588 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:21:28.655 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:21:45.365 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:21:48.375 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:21:54.103 [info] Discover tests for workspace name: Python - uri: /home/user/Documents/Python/hello world.py
+2024-01-22 15:21:54.577 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:21:55.049 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:21:55.220 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"
+2024-01-22 15:21:55.380 [info] Send text to terminal: /bin/python "/home/user/Documents/Python/hello world.py"

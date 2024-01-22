@@ -1,0 +1,23 @@
+2024-01-22 19:50:02.859 [info] Log level: Info
+2024-01-22 19:50:02.859 [info] Validating found git in: "git"
+2024-01-22 19:50:02.859 [info] Using git "2.43.0" from "git"
+2024-01-22 19:50:02.859 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-22 19:50:02.859 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-01-22 19:50:02.859 [info] Open repository: /home/user/Documents/amoled-arch-hyprland
+2024-01-22 19:50:02.859 [info] > git config --get commit.template [1ms]
+2024-01-22 19:50:02.859 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-22 19:50:02.859 [warning] ENOENT: no such file or directory, open '/home/user/Documents/amoled-arch-hyprland/.git/refs/remotes/origin/main'
+2024-01-22 19:50:02.859 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-22 19:50:02.859 [info] > git status -z -uall [6ms]
+2024-01-22 19:50:02.859 [info] > git config --get commit.template [2ms]
+2024-01-22 19:50:02.860 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-01-22 19:50:02.863 [warning] ENOENT: no such file or directory, open '/home/user/Documents/amoled-arch-hyprland/.git/refs/remotes/origin/main'
+2024-01-22 19:50:02.864 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-01-22 19:50:02.868 [info] > git status -z -uall [1ms]
+2024-01-22 19:50:03.537 [info] > git check-ignore -v -z --stdin [4ms]
+2024-01-22 19:51:37.172 [info] > git check-ignore -v -z --stdin [1ms]
+2024-01-22 19:51:39.501 [info] > git config --get commit.template [12ms]
+2024-01-22 19:51:39.501 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-22 19:51:39.506 [warning] ENOENT: no such file or directory, open '/home/user/Documents/amoled-arch-hyprland/.git/refs/remotes/origin/main'
+2024-01-22 19:51:39.507 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-22 19:51:39.514 [info] > git status -z -uall [2ms]

@@ -1,0 +1,5 @@
+2024-01-22 18:45:57.014 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'registerIssueDataProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-01-22 18:45:57.050 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/user/.config/gtk-4.0/gtk.css","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2024-01-22 18:45:57.208 [info] Started local extension host with pid 13023.
+2024-01-22 18:45:58.532 [error] [Extension Host] [extension] You are not signed in to GitHub. Please sign in to use Copilot.
+2024-01-22 18:45:59.857 [info] [perf] Render performance baseline is 25ms

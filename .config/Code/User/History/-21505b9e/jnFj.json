@@ -1,0 +1,11 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "alt+t",
+        "command": "workbench.action.terminal.new"
+    },
+    {
+        "key": "alt+w",
+        "command": "workbench.action.terminal.kill"
+    }
+]

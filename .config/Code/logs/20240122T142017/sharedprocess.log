@@ -1,0 +1,98 @@
+2024-01-22 14:20:58.747 [info] Getting Manifest... formulahendry.auto-close-tag
+2024-01-22 14:20:58.756 [info] Installing extension: formulahendry.auto-close-tag
+2024-01-22 14:20:59.222 [warning] Extension signature verification failed with error 'UnknownError': formulahendry.auto-close-tag
+2024-01-22 14:20:59.250 [info] Extracted extension to file:///home/user/.vscode/extensions/formulahendry.auto-close-tag-0.5.15: formulahendry.auto-close-tag
+2024-01-22 14:20:59.252 [info] Renamed to /home/user/.vscode/extensions/formulahendry.auto-close-tag-0.5.15
+2024-01-22 14:20:59.253 [info] Extracting extension completed. formulahendry.auto-close-tag
+2024-01-22 14:20:59.258 [info] Extension installed successfully: formulahendry.auto-close-tag
+2024-01-22 14:20:59.334 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-22 14:20:59.735 [info] Getting Manifest... formulahendry.auto-rename-tag
+2024-01-22 14:20:59.746 [info] Installing extension: formulahendry.auto-rename-tag
+2024-01-22 14:21:00.086 [warning] Extension signature verification failed with error 'UnknownError': formulahendry.auto-rename-tag
+2024-01-22 14:21:00.123 [info] Extracted extension to file:///home/user/.vscode/extensions/formulahendry.auto-rename-tag-0.1.10: formulahendry.auto-rename-tag
+2024-01-22 14:21:00.125 [info] Renamed to /home/user/.vscode/extensions/formulahendry.auto-rename-tag-0.1.10
+2024-01-22 14:21:00.125 [info] Extracting extension completed. formulahendry.auto-rename-tag
+2024-01-22 14:21:00.129 [info] Extension installed successfully: formulahendry.auto-rename-tag
+2024-01-22 14:21:00.203 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-22 14:21:44.968 [info] Getting Manifest... github.copilot
+2024-01-22 14:21:44.975 [info] Installing extension: github.copilot
+2024-01-22 14:21:45.408 [info] Getting Manifest... github.copilot-chat
+2024-01-22 14:21:45.464 [info] Installing extension: github.copilot-chat github.copilot
+2024-01-22 14:21:45.802 [warning] Extension signature verification failed with error 'UnknownError': github.copilot-chat
+2024-01-22 14:21:45.876 [info] Extracted extension to file:///home/user/.vscode/extensions/github.copilot-chat-0.11.1: github.copilot-chat
+2024-01-22 14:21:45.877 [info] Renamed to /home/user/.vscode/extensions/github.copilot-chat-0.11.1
+2024-01-22 14:21:45.878 [info] Extracting extension completed. github.copilot-chat
+2024-01-22 14:21:45.960 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-22 14:21:46.234 [warning] Extension signature verification failed with error 'UnknownError': github.copilot
+2024-01-22 14:21:46.368 [info] Extracted extension to file:///home/user/.vscode/extensions/github.copilot-1.152.0: github.copilot
+2024-01-22 14:21:46.369 [info] Renamed to /home/user/.vscode/extensions/github.copilot-1.152.0
+2024-01-22 14:21:46.370 [info] Extracting extension completed. github.copilot
+2024-01-22 14:21:46.374 [info] Extension installed successfully: github.copilot-chat
+2024-01-22 14:21:46.374 [info] Extension installed successfully: github.copilot
+2024-01-22 14:21:46.413 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-22 14:22:42.309 [info] Getting Manifest... ms-python.python
+2024-01-22 14:22:42.322 [info] Installing extension: ms-python.python
+2024-01-22 14:22:42.764 [info] Getting Manifest... ms-python.vscode-pylance
+2024-01-22 14:22:42.818 [info] Installing extension: ms-python.vscode-pylance ms-python.python
+2024-01-22 14:22:43.300 [warning] Extension signature verification failed with error 'UnknownError': ms-python.python
+2024-01-22 14:22:43.994 [info] Extracted extension to file:///home/user/.vscode/extensions/ms-python.python-2023.22.1: ms-python.python
+2024-01-22 14:22:43.997 [info] Renamed to /home/user/.vscode/extensions/ms-python.python-2023.22.1
+2024-01-22 14:22:43.999 [info] Extracting extension completed. ms-python.python
+2024-01-22 14:22:44.086 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-22 14:22:44.471 [warning] Extension signature verification failed with error 'UnknownError': ms-python.vscode-pylance
+2024-01-22 14:22:45.453 [info] Extracted extension to file:///home/user/.vscode/extensions/ms-python.vscode-pylance-2023.12.1: ms-python.vscode-pylance
+2024-01-22 14:22:45.457 [info] Renamed to /home/user/.vscode/extensions/ms-python.vscode-pylance-2023.12.1
+2024-01-22 14:22:45.458 [info] Extracting extension completed. ms-python.vscode-pylance
+2024-01-22 14:22:45.464 [info] Extension installed successfully: ms-python.python
+2024-01-22 14:22:45.464 [info] Extension installed successfully: ms-python.vscode-pylance
+2024-01-22 14:22:45.537 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-22 14:25:38.641 [info] Getting Manifest... christian-kohler.path-intellisense
+2024-01-22 14:25:38.645 [info] Installing extension: christian-kohler.path-intellisense
+2024-01-22 14:25:39.053 [warning] Extension signature verification failed with error 'UnknownError': christian-kohler.path-intellisense
+2024-01-22 14:25:39.078 [info] Extracted extension to file:///home/user/.vscode/extensions/christian-kohler.path-intellisense-2.8.5: christian-kohler.path-intellisense
+2024-01-22 14:25:39.079 [info] Renamed to /home/user/.vscode/extensions/christian-kohler.path-intellisense-2.8.5
+2024-01-22 14:25:39.080 [info] Extracting extension completed. christian-kohler.path-intellisense
+2024-01-22 14:25:39.083 [info] Extension installed successfully: christian-kohler.path-intellisense
+2024-01-22 14:25:39.158 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/user/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)

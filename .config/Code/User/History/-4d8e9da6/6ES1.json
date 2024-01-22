@@ -1,0 +1,9 @@
+{
+    "workbench.sideBar.location": "right",
+    "workbench.statusBar.visible": false,
+    "workbench.editor.editorActionsLocation": "hidden",
+    "window.menuBarVisibility": "toggle",
+    "workbench.colorTheme": "Black",
+    "editor.minimap.enabled": false,
+    "workbench.activityBar.location": "hidden"
+}
